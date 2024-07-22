@@ -1,0 +1,3 @@
+INFO  23-05-06 11:12:16[main] [CoinProgramApplication:51] - Starting CoinProgramApplication using Java 17.0.5 with PID 11356 (C:\Users\tkd15\workspace3\coinProgram\target\classes started by local1508 in C:\Users\tkd15\workspace3\coinProgram)
+INFO  23-05-06 11:12:16[main] [CoinProgramApplication:633] - No active profile set, falling back to 1 default profile: "default"
+INFO  23-05-06 11:12:17[main] [CoinProgramApplication:57] - Started CoinProgramApplication in 1.392 seconds (process running for 2.696)
